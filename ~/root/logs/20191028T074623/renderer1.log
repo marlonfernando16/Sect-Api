@@ -1,0 +1,12 @@
+[2019-10-29 01:47:05.641] [renderer1] [error] TreeError [FileExplorer] Data tree node not found: [object Object]: Error: TreeError [FileExplorer] Data tree node not found: [object Object]
+    at Y.getDataNode (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1045:675)
+    at Y.expand (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1043:850)
+    at e.onSelectResource (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5770:916)
+[2019-10-29 01:58:40.556] [renderer1] [error] TreeError [FileExplorer] Data tree node not found: [object Object]: Error: TreeError [FileExplorer] Data tree node not found: [object Object]
+    at Y.getDataNode (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1045:675)
+    at Y.expand (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1043:850)
+    at e.onSelectResource (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5770:916)
+[2019-10-29 01:59:32.379] [renderer1] [error] TreeError [FileExplorer] Data tree node not found: [object Object]: Error: TreeError [FileExplorer] Data tree node not found: [object Object]
+    at Y.getDataNode (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1045:675)
+    at Y.expand (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1043:850)
+    at e.onSelectResource (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5770:916)
